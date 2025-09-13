@@ -31,5 +31,5 @@ cd "C:\Users\sabar\Downloads\Gear Fault Detection (Dataset and Other Files)\gear
 npm run dist
 ```
 
--> This will create `frontend/dist`
+-> This will create `frontend/dist` 
 -> Inside `frontend/dist`, `Gear Fault App Setup 1.0.0` will be present, which will be our main `.exe` component
